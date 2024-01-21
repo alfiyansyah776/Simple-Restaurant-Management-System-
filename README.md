@@ -186,6 +186,8 @@ VALUES
 
 - Pada CafeConstants pada variable : public static final String STORE_LOCATION = "D:\\Log"; pastikan sesuaikan dengan folder anda.
 
+- Silahkan sesuaikan data pada application properties
+
 ## Screenshots
 
 ### Contoh account approved
